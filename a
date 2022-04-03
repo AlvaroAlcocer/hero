@@ -1,18 +1,18 @@
 {
-  "squadName" : "Super Hero Squad",
-  "homeTown" : "Metro City",
+  "squadName" : "Escuadron de heroes",
+  "homeTown" : "Saldi Ciudad",
   "formed" : 2016,
-  "secretBase" : "Super tower",
+  "secretBase" : "Base c11",
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
+      "name" : "Hombre molecula",
       "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "secretIdentity" : "Dante Jukes",
       "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "Resistente a la radiacion",
+        "movimiento",
+        "Disparo de radiacion "
       ]
     },
     {
